@@ -7,6 +7,7 @@ This repo currently contains one Jupyter notebook written to address the followi
 See [NumericalBenchmarks.ipynb](./NumericalBenchmarks.ipynb) for the code.
 
 Click the following badge to open the notebook in your browser using Google CoLab.
+
 <a href="https://colab.research.google.com/github/OliverEvans96/planck-integral/blob/main/NumericalBenchmarks.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 See the [outputs directory](./outputs) for the final results.
